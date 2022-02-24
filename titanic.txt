@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 soy un barco que se hundió porque choque con un iceberg 
+=======
+mueren muchos
+>>>>>>> f1559d7e0c6bdbd0e13ae4ec6c5439ef5831d333
